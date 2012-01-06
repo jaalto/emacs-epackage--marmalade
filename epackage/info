@@ -1,0 +1,24 @@
+Package: marmalade
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 22)
+Status: stable
+Archive: ELPA/marmalade
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Nathan Weizenbaum <nweiz@google.com>
+Upstream-Bugs:
+Vcs-Type: git
+Vcs-Url: https://code.google.com/p/marmalade
+Vcs-Browser: http://code.google.com/p/marmalade/source/browse
+Homepage: http://code.google.com/p/marmalade
+Wiki: http://www.emacswiki.org/emacs/
+Commentary:
+Description: interface for the ELPA/marmalade package server
+ Provide interface to the ELPA/Marmalade package
+ server. With Emacs 24 package.el you can to download and install packages in
+ Marmalade; this package adds the ability to upload them.
+ .
+ To use this package, you must set variable marmalade-server to the URL of the
+ Marmalade server to which pakages will be uploaded.
