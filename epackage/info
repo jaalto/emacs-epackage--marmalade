@@ -1,7 +1,7 @@
 Package: marmalade
 Section: extensions
 License: GPL-3+
-Depends: emacs (>= 22)
+Depends: emacs (>= 22), lib-furl
 Status: stable
 Archive: ELPA/marmalade
 Compat:
