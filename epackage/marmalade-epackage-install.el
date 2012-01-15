@@ -1,2 +1,2 @@
-(require 'marmalade-epkg-0loaddefs)
-(provide 'marmalade-epkg-install)
+(require 'marmalade-epackage-0loaddefs)
+(provide 'marmalade-epackage-install)

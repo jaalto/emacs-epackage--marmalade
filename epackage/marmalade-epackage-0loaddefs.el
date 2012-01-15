@@ -29,4 +29,4 @@ uploaded.
 \(fn BUFFER &optional CALLBACK)" t nil)
 
 ;;;***
-(provide 'marmalade-epkg-0loaddefs)
+(provide 'marmalade-epackage-0loaddefs)
